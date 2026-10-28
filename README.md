@@ -137,4 +137,4 @@ The test suite covers:
 
 * Standard 9×9 grids only (no samurai, mini, or irregular variants).
 * Worst-case runtime scales exponentially with puzzle complexity; adversarial grids may take longer to compute.
-* Outputs the final board state directly—does not supply human solving techniques, step-by-step reasoning, or hints.
+* Outputs the final board state directly does not supply human solving techniques, step-by-step reasoning, or hints.
